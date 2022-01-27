@@ -1,1 +1,8 @@
+spring:
+  application:
+    name: userAuthApp
+  profiles:
+    active: dev
 
+server:
+  port: 8080
